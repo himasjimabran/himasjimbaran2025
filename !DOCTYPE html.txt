@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Linktree Sederhana</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Profil Section -->
+        <div class="profile">
+            <img src="https://drive.google.com/uc?export=view&id=1R_JziCSw5gHN8dEmWjiW6mBzYdLgdkTh" alt="Foto Profil" class="profile-img">
+            <h1>himasjimbaran</h1>
+        </div>
+        
+
+        <div class="links">
+            <a href="https://www.instagram.com/himasjimbaran/" class="link" target="_blank">Instagram</a>
+            <a href="https://wa.me/6285738970923" class="link" target="_blank">WhatsApp</a> 
+            <a href="mailto:himasjimbaran@gmail.com" class="link">Email</a> 
+            <a href="https://link-ke-aspirasi.com" class="link" target="_blank">Aspirasi</a>
+            <a href="https://www.tiktok.com/@himasjimbaran/" class="link" target="_blank">TikTok</a>
+        </div>
+    </div>
+</body>
+</html>
